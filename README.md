@@ -1,9 +1,6 @@
-# osrswiki-webscraper
-Nodejs Wiki Webscraper for the online MMORPG Oldschool Runescape
-
 # osrs wiki webscraper
 
-> Find a file or directory by walking up parent directories
+> Nodejs Wiki Webscraper for the online MMORPG Oldschool Runescape
 
 
 ## Install
