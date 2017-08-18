@@ -20,18 +20,11 @@ $ npm install --save
 ```
 
 ```js
-// example.js
-const findUp = require('find-up');
-
-findUp('unicorn.png').then(filepath => {
-	console.log(filepath);
-	//=> '/Users/sindresorhus/unicorn.png'
-});
-
-findUp(['rainbow.png', 'unicorn.png']).then(filepath => {
-	console.log(filepath);
-	//=> '/Users/sindresorhus/unicorn.png'
-});
+var express = require('express');
+var fs = require('fs');
+var request = require('request');
+var cheerio = require('cheerio');
+var app = express();
 ```
 
 
