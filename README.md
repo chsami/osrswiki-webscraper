@@ -37,7 +37,6 @@ findUp(['rainbow.png', 'unicorn.png']).then(filepath => {
 
 ## API
 
-example:
 localhost/scrape/dark beast
 
 
